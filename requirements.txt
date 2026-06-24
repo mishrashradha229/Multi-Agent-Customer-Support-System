@@ -4,7 +4,7 @@ langgraph
 
 
 
-google-generativeai>
+google-generativeai
 groq
 python-dotenv
 
