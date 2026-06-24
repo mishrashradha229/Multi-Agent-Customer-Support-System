@@ -1,48 +1,23 @@
-streamlit>=1.45.0
+streamlit
 
-# LangGraph & LangChain
-langgraph>=0.2.50
-langchain>=0.3.0
-langchain-core>=0.3.0
+langgraph
 
-# LLMs
-google-generativeai>=0.8.5
-groq>=0.30.0
-python-dotenv>=1.0.1
 
-# RAG & Vector Database
-chromadb>=1.0.15
-sentence-transformers>=3.0.1
-pypdf>=5.0.0
 
-# Machine Learning
-torch>=2.3.0
-transformers>=4.52.0
+google-generativeai>
+groq
+python-dotenv
 
-# Database
-sqlite-utils>=3.38
+chromadb
+sentence-transformers
 
-# Voice Support
-SpeechRecognition>=3.10.4
-gTTS>=2.5.3
-PyAudio>=0.2.14
+sqlite-utils
 
-# Multilingual Support
-deep-translator>=1.11.4
+SpeechRecognition
+gTTS
+PyAudio
 
-# Utilities
-numpy>=2.0.0
-pandas>=2.2.2
-requests>=2.32.3
+numpy
+panda
+requests
 
-# Optional UI & Visualization
-plotly>=5.24.1
-
-# Image Processing (Optional)
-Pillow>=11.0.0
-
-# File Handling
-python-docx>=1.1.2
-
-# Logging
-loguru>=0.7.2
